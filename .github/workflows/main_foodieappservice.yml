@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'foodieappservice'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_26151D28B30B42E29391EA1D3551154F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A6E3142591D94EA6A5A7BFEAAEEC52F5 }}
           package: .
